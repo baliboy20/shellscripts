@@ -1,0 +1,5 @@
+#!/bin/bash
+echo hello world
+osascript  -e "mongo"
+cd /Users/user/WebstormProjects/TechBlogNg5/techblog2
+osascript "ng serve -p 1234"

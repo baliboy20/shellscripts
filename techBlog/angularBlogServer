@@ -1,0 +1,4 @@
+#!/bin/bash
+echo hello world
+cd /Users/user/WebstormProjects/TechBlogNg5/techblog2
+npm start
